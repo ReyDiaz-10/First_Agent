@@ -1,0 +1,6 @@
+{
+  "name": "Creador de Agentes IA",
+  "description": "Plataforma interactiva para diseñar, personalizar, probar en vivo y exportar agentes de inteligencia artificial con Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
